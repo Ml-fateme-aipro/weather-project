@@ -1,0 +1,6 @@
+.env
+venv/
+__pycache__/
+.ipynb_checkpoints/
+hava-1.ipynb
+hello.py
